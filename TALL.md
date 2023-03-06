@@ -34,7 +34,7 @@ $$ L = L_{aln} + αL_{reg}$$ $$ L_aln = \frac{1}{N}\sum_{i=0}^N[\alpha log(1 + e
 本文使用了TACoS和Charades-STA数据集，并且为测试阶段专门生成了更长更复杂的句子。本文在两个数据集上和三个baseline进行了多组对照试验。结果表明模型效果超过了各个baseline模型，且非参数化偏移量比参数化偏移量的效果更好。
 
 ## Code
-
+[TALL](https://github.com/jiyanggao/TALL)
 
 
 
